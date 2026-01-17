@@ -18,6 +18,9 @@ Apasionado por crear aplicaciones interactivas y aprender nuevas tecnologías.
 - HTML5  
 - CSS3  
 - JavaScript  
+- React  
+- JSX  
+- Vite  
 - Diseño de interfaces (UI)  
 - Maquetación responsive (básico)
 
@@ -39,12 +42,13 @@ Apasionado por crear aplicaciones interactivas y aprender nuevas tecnologías.
 - Visual Studio Code  
 
 ### Otros conocimientos
-- Desarrollo de aplicaciones de escritorio  
+- Desarrollo de aplicaciones web y de escritorio  
 - Control de versiones  
 - Comunicación entre procesos (IPC) en Electron (básico)  
 - Estructuración de proyectos  
 - Buenas prácticas de código  
 - Proyectos académicos
+
 
 ## 📫 Contacto  
 - **Email:** santi.bp.2005@gmail.com  
