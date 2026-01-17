@@ -13,9 +13,38 @@ Apasionado por crear aplicaciones interactivas y aprender nuevas tecnologías.
 - [QuickConnectEdu](https://github.com/SantiLV01/QuickConnectEdu) – Plataforma educativa para la conexión y comunicación rápida entre estudiantes y docentes.  
 
 ## 🛠 Tecnologías  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java (básico)  
-- **Herramientas:** Git, GitHub, JavaFX, NetBeans  
+
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- Diseño de interfaces (UI)  
+- Maquetación responsive (básico)
+
+### Backend
+- Java  
+- Node.js (básico)  
+- Programación orientada a objetos (POO)  
+- Lógica de negocio (nivel básico)
+
+### Frameworks / Tecnologías
+- JavaFX  
+- Electron  
+- FXML  
+
+### Herramientas
+- Git  
+- GitHub  
+- NetBeans IDE  
+- Visual Studio Code  
+
+### Otros conocimientos
+- Desarrollo de aplicaciones de escritorio  
+- Control de versiones  
+- Comunicación entre procesos (IPC) en Electron (básico)  
+- Estructuración de proyectos  
+- Buenas prácticas de código  
+- Proyectos académicos
 
 ## 📫 Contacto  
 - **Email:** santi.bp.2005@gmail.com  
