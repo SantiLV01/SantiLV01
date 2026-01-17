@@ -52,5 +52,5 @@ Apasionado por crear aplicaciones interactivas y aprender nuevas tecnologías.
 
 ## 📫 Contacto  
 - **Email:** santi.bp.2005@gmail.com  
-- **LinkedIn:** [linkedin.com/in/SantiLV01(https://linkedin.com/in/SantiLV01)  
+- **LinkedIn:** [https://www.linkedin.com/in/arturo-santiago-bautista-3ab06232a/))  
 - **Portafolio:** [github.com/SantiLV01](https://github.com/SantiLV01)  
